@@ -2,7 +2,11 @@
 
 My name is **Maxime**,
 
-I changed careers two years ago. Before that, I worked for seven years as an inspector at **Bureau Veritas**.
+I changed careers two years ago. Before that, I worked for seven years as an inspector at **Bureau Veritas** :
+  * Customer relationship
+  * On-site intervention
+  * Report writing
+
 Today, I am a student at **ENI Rennes**, currently in the third year of a Bachelor's degree.
 
 🎯 I am looking for a company to join in **November 2026** as part of my **Master's degree**.
